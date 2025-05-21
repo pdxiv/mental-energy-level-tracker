@@ -37,7 +37,7 @@ The Mental Energy Level Tracker helps answer the question "How much mental energ
 1. Clone this repository:
 
 ```bash
-   git clone https://github.com/yourusername/mental-energy-level-tracker.git
+   git clone https://github.com/pdxiv/mental-energy-level-tracker.git
    cd mental-energy-level-tracker
 ```
 
