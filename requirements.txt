@@ -1,0 +1,7 @@
+# Mental Clarity Tracker Requirements
+# This application uses only Python standard libraries
+# No external packages are required
+
+# Python version requirement
+# Specify your preferred Python 3 version
+python_version >= "3.6"
